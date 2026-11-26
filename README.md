@@ -116,7 +116,6 @@
 
 - 🌐 **Website:** [ranogames.github.io](https://ranogames.github.io)
 - 🐙 **GitHub:** [@RanoGames](https://github.com/RanoGames)
-- 📧 **Email:** *добавь свой, если хочешь*
 
 <div align="center">
 
